@@ -1,0 +1,148 @@
+2024-04-16 19:49:20 [Information] Now listening on: https://localhost:7226
+2024-04-16 19:49:20 [Information] Now listening on: http://localhost:5137
+2024-04-16 19:49:20 [Information] Application started. Press Ctrl+C to shut down.
+2024-04-16 19:49:20 [Information] Hosting environment: Development
+2024-04-16 19:49:20 [Information] Content root path: C:\Users\whizt\Desktop\AuthAPI\AuthAPI
+2024-04-16 19:52:48 [Error] An unhandled exception has occurred while executing the request.
+2024-04-16 19:52:48 [Error] An exception was thrown attempting to display the error page.
+2024-04-16 19:52:48 [Error] An unhandled exception has occurred while executing the request.
+2024-04-16 19:52:48 [Error] An exception was thrown attempting to display the error page.
+2024-04-16 19:52:48 [Error] An unhandled exception has occurred while executing the request.
+2024-04-16 19:52:48 [Error] An exception was thrown attempting to display the error page.
+2024-04-16 19:52:48 [Error] Connection id "0HN2U40QN4H1L", Request id "0HN2U40QN4H1L:00000001": An unhandled exception was thrown by the application.
+2024-04-16 19:52:57 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 19:52:57 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 19:54:14 [Error] An unhandled exception has occurred while executing the request.
+2024-04-16 19:54:14 [Error] An exception was thrown attempting to display the error page.
+2024-04-16 19:54:14 [Error] An unhandled exception has occurred while executing the request.
+2024-04-16 19:54:14 [Error] An exception was thrown attempting to display the error page.
+2024-04-16 19:54:14 [Error] An unhandled exception has occurred while executing the request.
+2024-04-16 19:54:14 [Error] An exception was thrown attempting to display the error page.
+2024-04-16 19:54:14 [Error] Connection id "0HN2U40QN4H1N", Request id "0HN2U40QN4H1N:00000001": An unhandled exception was thrown by the application.
+2024-04-16 19:54:17 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 19:54:17 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 19:56:38 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 19:56:38 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 19:59:15 [Error] An unhandled exception has occurred while executing the request.
+2024-04-16 19:59:21 [Error] An unhandled exception has occurred while executing the request.
+2024-04-16 19:59:45 [Error] An unhandled exception has occurred while executing the request.
+2024-04-16 20:00:12 [Information] Now listening on: https://localhost:7226
+2024-04-16 20:00:12 [Information] Now listening on: http://localhost:5137
+2024-04-16 20:00:12 [Information] Application started. Press Ctrl+C to shut down.
+2024-04-16 20:00:12 [Information] Hosting environment: Development
+2024-04-16 20:00:12 [Information] Content root path: C:\Users\whizt\Desktop\AuthAPI\AuthAPI
+2024-04-16 20:00:34 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 20:00:34 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 20:01:10 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 20:01:10 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 20:01:25 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 20:01:25 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 20:01:34 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 20:01:34 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 20:01:38 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 20:01:38 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 20:01:48 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 20:01:48 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 20:05:00 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 20:05:00 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 20:05:10 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 20:05:10 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 20:05:12 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 20:05:12 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 20:05:15 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 20:05:15 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 20:06:27 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 20:06:27 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 20:06:32 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 20:06:32 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 20:06:38 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 20:06:38 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 20:06:39 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 20:06:39 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-16 20:06:41 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-16 20:06:41 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-17 11:42:24 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-17 11:42:24 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-17 11:42:26 [Warning] Unable to configure Browser Link script injection on the response. 
+2024-04-17 11:42:26 [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-04-19 17:40:14 [Information] Now listening on: https://localhost:7226
+2024-04-19 17:40:14 [Information] Now listening on: http://localhost:5137
+2024-04-19 17:40:14 [Information] Application started. Press Ctrl+C to shut down.
+2024-04-19 17:40:15 [Information] Hosting environment: Development
+2024-04-19 17:40:15 [Information] Content root path: C:\Users\whizt\Desktop\AuthAPI\AuthAPI
+2024-04-19 17:43:27 [Information] Now listening on: https://localhost:7226
+2024-04-19 17:43:27 [Information] Now listening on: http://localhost:5137
+2024-04-19 17:43:28 [Information] Application started. Press Ctrl+C to shut down.
+2024-04-19 17:43:28 [Information] Hosting environment: Development
+2024-04-19 17:43:28 [Information] Content root path: C:\Users\whizt\Desktop\AuthAPI\AuthAPI
+2024-04-19 17:44:15 [Error] An unhandled exception has occurred while executing the request.
+2024-04-19 17:44:15 [Error] An exception was thrown attempting to display the error page.
+2024-04-19 17:44:15 [Error] An unhandled exception has occurred while executing the request.
+2024-04-19 17:44:15 [Error] An exception was thrown attempting to display the error page.
+2024-04-19 17:44:15 [Error] An unhandled exception has occurred while executing the request.
+2024-04-19 17:44:15 [Error] An exception was thrown attempting to display the error page.
+2024-04-19 17:44:15 [Error] Connection id "0HN30D8FFDCFK", Request id "0HN30D8FFDCFK:00000001": An unhandled exception was thrown by the application.
+2024-04-19 17:48:48 [Information] Now listening on: https://localhost:7226
+2024-04-19 17:48:48 [Information] Now listening on: http://localhost:5137
+2024-04-19 17:48:48 [Information] Application started. Press Ctrl+C to shut down.
+2024-04-19 17:48:48 [Information] Hosting environment: Development
+2024-04-19 17:48:48 [Information] Content root path: C:\Users\whizt\Desktop\AuthAPI\AuthAPI
+2024-04-19 17:58:59 [Information] Now listening on: https://localhost:7226
+2024-04-19 17:58:59 [Information] Now listening on: http://localhost:5137
+2024-04-19 17:58:59 [Information] Application started. Press Ctrl+C to shut down.
+2024-04-19 17:58:59 [Information] Hosting environment: Development
+2024-04-19 17:58:59 [Information] Content root path: C:\Users\whizt\Desktop\AuthAPI\AuthAPI
+2024-04-19 17:59:38 [Error] An unhandled exception has occurred while executing the request.
+2024-04-19 17:59:38 [Error] An exception was thrown attempting to display the error page.
+2024-04-19 17:59:39 [Error] An unhandled exception has occurred while executing the request.
+2024-04-19 17:59:39 [Error] An exception was thrown attempting to display the error page.
+2024-04-19 17:59:39 [Error] An unhandled exception has occurred while executing the request.
+2024-04-19 17:59:39 [Error] An exception was thrown attempting to display the error page.
+2024-04-19 17:59:39 [Error] Connection id "0HN30DH4UERKI", Request id "0HN30DH4UERKI:00000001": An unhandled exception was thrown by the application.
+2024-04-19 18:01:43 [Information] Now listening on: https://localhost:7226
+2024-04-19 18:01:43 [Information] Now listening on: http://localhost:5137
+2024-04-19 18:01:43 [Information] Application started. Press Ctrl+C to shut down.
+2024-04-19 18:01:43 [Information] Hosting environment: Development
+2024-04-19 18:01:43 [Information] Content root path: C:\Users\whizt\Desktop\AuthAPI\AuthAPI
+2024-04-19 18:40:17 [Information] Now listening on: https://localhost:7226
+2024-04-19 18:40:17 [Information] Now listening on: http://localhost:5137
+2024-04-19 18:40:17 [Information] Application started. Press Ctrl+C to shut down.
+2024-04-19 18:40:17 [Information] Hosting environment: Development
+2024-04-19 18:40:17 [Information] Content root path: C:\Users\whizt\Desktop\AuthAPI\AuthAPI
+2024-04-22 16:54:37 [Information] Now listening on: https://localhost:7226
+2024-04-22 16:54:37 [Information] Now listening on: http://localhost:5137
+2024-04-22 16:54:37 [Information] Application started. Press Ctrl+C to shut down.
+2024-04-22 16:54:37 [Information] Hosting environment: Development
+2024-04-22 16:54:37 [Information] Content root path: C:\Users\whizt\Desktop\AuthAPI\AuthAPI
+2024-04-22 16:55:25 [Information] Request received to get all users.
+2024-04-22 16:57:32 [Error] An unhandled exception has occurred while executing the request.
+2024-04-22 16:57:38 [Error] An exception was thrown attempting to display the error page.
+2024-04-22 16:57:42 [Error] An unhandled exception has occurred while executing the request.
+2024-04-22 16:57:42 [Error] An exception was thrown attempting to display the error page.
+2024-04-22 16:57:42 [Error] An unhandled exception has occurred while executing the request.
+2024-04-22 16:57:42 [Error] An exception was thrown attempting to display the error page.
+2024-04-22 16:57:42 [Error] Connection id "0HN32NR5MPBIK", Request id "0HN32NR5MPBIK:00000001": An unhandled exception was thrown by the application.
+2024-04-22 16:58:29 [Information] Now listening on: https://localhost:7226
+2024-04-22 16:58:29 [Information] Now listening on: http://localhost:5137
+2024-04-22 16:58:29 [Information] Application started. Press Ctrl+C to shut down.
+2024-04-22 16:58:29 [Information] Hosting environment: Development
+2024-04-22 16:58:29 [Information] Content root path: C:\Users\whizt\Desktop\AuthAPI\AuthAPI
+2024-04-22 16:58:57 [Error] An unhandled exception has occurred while executing the request.
+2024-04-22 16:58:57 [Error] An exception was thrown attempting to display the error page.
+2024-04-22 16:58:57 [Error] An unhandled exception has occurred while executing the request.
+2024-04-22 16:58:57 [Error] An exception was thrown attempting to display the error page.
+2024-04-22 16:58:57 [Error] An unhandled exception has occurred while executing the request.
+2024-04-22 16:58:57 [Error] An exception was thrown attempting to display the error page.
+2024-04-22 16:58:58 [Error] Connection id "0HN32NTAQQ0EE", Request id "0HN32NTAQQ0EE:00000001": An unhandled exception was thrown by the application.
+2024-04-22 17:01:18 [Error] An unhandled exception has occurred while executing the request.
+2024-04-22 17:01:22 [Error] An exception was thrown attempting to display the error page.
+2024-04-22 17:01:22 [Error] An unhandled exception has occurred while executing the request.
+2024-04-22 17:01:22 [Error] An exception was thrown attempting to display the error page.
+2024-04-22 17:01:22 [Error] An unhandled exception has occurred while executing the request.
+2024-04-22 17:01:22 [Error] An exception was thrown attempting to display the error page.
+2024-04-22 17:01:22 [Error] Connection id "0HN32NTAQQ0EF", Request id "0HN32NTAQQ0EF:00000001": An unhandled exception was thrown by the application.
+2024-04-22 17:25:13 [Information] Now listening on: https://localhost:7226
+2024-04-22 17:25:14 [Information] Now listening on: http://localhost:5137
+2024-04-22 17:25:14 [Information] Application started. Press Ctrl+C to shut down.
+2024-04-22 17:25:14 [Information] Hosting environment: Development
+2024-04-22 17:25:14 [Information] Content root path: C:\Users\whizt\Desktop\AuthAPI\AuthenticationAPI
